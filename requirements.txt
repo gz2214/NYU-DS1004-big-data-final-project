@@ -1,0 +1,3 @@
+For Extension 1 (Single Machine Implemenatation):
+import lightfm 
+use train_set.parquet for lightfm implementation on local machine implementation. Run on 16GB RAM Intel i7 core processor.
